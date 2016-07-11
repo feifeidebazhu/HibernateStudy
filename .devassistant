@@ -1,0 +1,20 @@
+dependencies:
+- rpm:
+  - java-devel
+- rpm:
+  - maven
+- rpm:
+  - eclipse
+  - eclipse-cdt
+- rpm:
+  - eclipse-jdt
+  - eclipse-m2e-core
+  - eclipse-egit
+devassistant_version: 0.11.2
+original_kwargs:
+  eclipse: /home/yangjie/workspace
+  github: feifeidebazhu
+  name: /home/yangjie/HibernateStudy
+project_type:
+- java
+- maven
